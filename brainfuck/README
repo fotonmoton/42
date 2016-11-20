@@ -1,0 +1,11 @@
+# Text File
+# AUTHOR:   foton
+# FILE:     README
+# ROLE:     to rule them all
+# CREATED:  2016-11-20 01:18:23
+# MODIFIED: 2016-11-20 01:20:33
+
+Simple brainfuck interpreter.
+
+compile:	"make fclean, make" or "make re"
+test:		"cat hello_world.bf | xargs ./brainfuck"

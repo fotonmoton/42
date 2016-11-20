@@ -1,0 +1,4 @@
+dn: uid=gtertysh,ou=november,ou=2016,ou=people,dc=unit,dc=ua
+changetype: modify
+add: mobile
+mobile: 0930351607

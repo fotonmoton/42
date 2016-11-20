@@ -1,0 +1,5 @@
+Credentials cache: API:4728
+        Principal: gtertysh@UNIT.UA
+
+  Issued                Expires               Principal
+Oct 26 12:13:24 2016  Oct 26 22:13:16 2016  krbtgt/UNIT.UA@UNIT.UA
