@@ -1,0 +1,5 @@
+Work that was done during C piscine.
+
+$> find . -type f \( -name '*.c' -o -name '*.h' \) -print | xargs cat | wc -l | xargs echo "Lines of shitcode was written:"
+$> Lines of shitcode was written: 7852
+
